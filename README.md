@@ -43,4 +43,4 @@ I’m a passionate **Java Full Stack Developer** with expertise in **High-Level 
 I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out or check out my repositories for more exciting work!
 
 - [Portfolio](https://google.com)
-- [Linkdin](https://www.linkedin.com/in/digvijay-kumar-thakur-368891142/)
+- [Linkedin](https://www.linkedin.com/in/digvijay-kumar-thakur-368891142/)
